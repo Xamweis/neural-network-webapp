@@ -1,0 +1,124 @@
+html {
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-weight: bold;
+}
+body {
+	background-color: black;
+}
+
+button {
+	cursor: pointer;
+	border: none;
+	background-color: azure;
+	width: 100%;
+}
+
+.trainer {
+	vertical-align: middle;
+	height: 100%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.nums {
+	width: 60%;
+	text-align: right;
+	padding-right: 2px;
+}
+
+.tbuttons {
+	height: 40px;
+}
+
+#app {
+	display: block;
+	float: right;
+	width: 448px;
+	border: 1px solid aquamarine;
+}
+
+#compare {
+	text-align: right;
+	font-size: 32px;
+	padding-right: 2px;
+	border-top: 1px solid aquamarine;
+}
+
+#comparex {
+	height: 100%;
+	border-top: 1px solid aquamarine;
+}
+
+#ebutton {
+	height: 100%;
+	font-size: 30px;
+	color: rgb(30, 123, 70);
+	font-weight: bold;
+}
+
+#clear {
+	height: 46px;
+	font-size: 25px;
+}
+
+#left {
+	display: block;
+	overflow: auto;
+	float: left;
+	width: 49%;
+}
+
+#sketch {
+	height: 448px;
+	width: 448px;
+	float: right;
+}
+
+#paint {
+	vertical-align: middle;
+	height: 448px;
+	width: 448px;
+	cursor: crosshair;
+}
+
+#right {
+	float: right;
+	height: 300px;
+	width: 49%;
+}
+
+#probs {	
+	color: azure;
+	width: 100%;
+	font-size: 32px;
+}
+
+#tbl {
+	width: 448px;
+}
+
+table {
+	border: 1px solid aquamarine;
+	border-collapse: collapse;
+	height: 496px;
+}
+
+h1 {
+	color: azure;
+	font-size: 50px;
+	text-align: center;
+}
+h2 {
+	color: azure;
+	height: 35px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.trainer:hover {
+	background-color: aquamarine;
+}
+#ebutton:hover, #clear:hover {
+	background-color: rgb(200, 200, 200);
+}
+
