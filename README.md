@@ -3,7 +3,6 @@
 <https://youtu.be/jVBaQSjgU5c>
 #
 #### **Description**:
-##
 - website that lets you draw a number in a field
   - neural network (python) guessing the number after every stroke
   - show all possibilities for 0-9
